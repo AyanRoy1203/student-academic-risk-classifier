@@ -293,7 +293,7 @@ export const STUDENT_PRESETS = [
   {
     name: 'Critical At-Risk',
     badge: 'High Risk',
-    color: 'rose',
+    color: 'terracotta',
     attendance: 20,
     marks: 25,
     assignment: 15,
@@ -302,7 +302,7 @@ export const STUDENT_PRESETS = [
   {
     name: 'Exam Deficient (Diligent)',
     badge: 'Moderate Risk',
-    color: 'amber',
+    color: 'honey',
     attendance: 88,
     marks: 35,
     assignment: 65,
@@ -311,7 +311,7 @@ export const STUDENT_PRESETS = [
   {
     name: 'Irregular (High Aptitude)',
     badge: 'Moderate Risk',
-    color: 'amber',
+    color: 'honey',
     attendance: 35,
     marks: 85,
     assignment: 50,
@@ -320,7 +320,7 @@ export const STUDENT_PRESETS = [
   {
     name: 'Average Student',
     badge: 'Moderate / Borderline',
-    color: 'amber',
+    color: 'honey',
     attendance: 65,
     marks: 60,
     assignment: 65,
@@ -329,7 +329,7 @@ export const STUDENT_PRESETS = [
   {
     name: 'Top Performer',
     badge: 'Low Risk',
-    color: 'emerald',
+    color: 'sage',
     attendance: 95,
     marks: 92,
     assignment: 94,
